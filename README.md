@@ -21,6 +21,6 @@ PR:
 
 Get Your Smart Contract Security Audit Today!
 
-Contact:
-info@stithulf.com
+Contact: 
+info@stithulf.com 
 https://stithulf.com/audit
