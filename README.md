@@ -1,4 +1,4 @@
-# Smart Contracts Audits by Stithulf
+# Smart Contracts Audit by Stithulf
 
 Smart Contract Audits (Ethereum and BSC) are an essential part of any smart contract development. While the rise of blockchain presents a unique opportunity to create smart contracts for digital assets, such as Utility or Security token. Smart Contract applications come with unique security concerns that have historically led to millions of USD in losses.
 
